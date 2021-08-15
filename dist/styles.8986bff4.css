@@ -1,0 +1,66 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 2.6rem;
+}
+
+li,
+button,
+label,
+input,
+p {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 4.8rem;
+}
+h3 {
+  font-size: 3rem;
+}
+h4,
+h5 {
+  font-size: 2.8rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+/* Nav & hero section */
+
+.main__header {
+  background: #131c27;
+  color: white;
+}
+nav {
+  padding: 2rem;
+  display: flex;
+  width: 90%;
+  margin: auto;
+  align-items: center;
+}
+nav ul {
+  display: flex;
+  flex: 1 1 40rem;
+  justify-content: space-around;
+  align-items: center;
+}
+#logo {
+  flex: 2 1 40rem;
+}
+
+.hero {
+  background: url();
+}
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
